@@ -1,6 +1,8 @@
 # Product Store 🛒
 
 A full-stack MERN application for managing product listings with CRUD functionality.
+![Uploading image.png…]()
+
 
 ## Features
 
